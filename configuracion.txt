@@ -1,0 +1,38 @@
+Versión de QGIS: 3.34.11-Prizren
+Revisión del código de QGIS: 2904bcec
+Versión de Qt: 5.15.13
+Python version: 3.12.6
+Versión de GDAL: 3.9.2
+Versión de GEOS: 3.12.2-CAPI-1.18.2
+Versión de PROJ: Rel. 9.4.0, March 1st, 2024
+PDAL version: 2.6.3 (git-version: b5523a)
+El algoritmo comenzó en: 2026-03-02T20:05:18
+Algoritmo 'Escribir teselas vectoriales (XYZ)' comenzando…
+Parámetros de entrada:
+{ 'EXTENT' : None, 'LAYERS' : [{ 'layer': 'MultiPolygon?crs=EPSG:3857&field=fid:long(0,0)&field=name:string(10,0)&field=total:integer(0,0)&field=color:string(50,0)&field=area:double(0,0)&field=facturacion:boolean(0,0)&field=fecha_reporte:date(0,0)&field=pagado:boolean(0,0)&field=fecha_inicio:date(0,0)&field=fecha_fin:date(0,0)&uid={5a2d30bc-7543-470c-a6f5-230c7dacf034}' },{ 'layer': 'Point?crs=EPSG:3857&field=fid:long(0,0)&field=revisada:boolean(0,0)&field=desc:string(100,0)&uid={e9533c34-1a2d-41bf-ab6f-597727e46e16}' }], 'MAX_ZOOM' : 3, 'MIN_ZOOM' : 0, 'OUTPUT_DIRECTORY' : 'C:\\Users\\juan_\\Documents\\FINCA_DANUBIO\\TOPOGRAFIA\\STRATEGUS\\mbtiles\\finca_base', 'XYZ_TEMPLATE' : '{z}/{x}/{y}.pbf' }
+
+Execution completed in 0.48 segundos
+Resultados:
+{'OUTPUT_DIRECTORY': 'C:\\Users\\juan_\\Documents\\FINCA_DANUBIO\\TOPOGRAFIA\\STRATEGUS\\mbtiles\\finca_base'}
+
+Cargando las capas resultantes
+Algoritmo 'Escribir teselas vectoriales (XYZ)' finalizado
+Versión de QGIS: 3.34.11-Prizren
+Revisión del código de QGIS: 2904bcec
+Versión de Qt: 5.15.13
+Python version: 3.12.6
+Versión de GDAL: 3.9.2
+Versión de GEOS: 3.12.2-CAPI-1.18.2
+Versión de PROJ: Rel. 9.4.0, March 1st, 2024
+PDAL version: 2.6.3 (git-version: b5523a)
+El algoritmo comenzó en: 2026-03-02T20:06:08
+Algoritmo 'Escribir teselas vectoriales (XYZ)' comenzando…
+Parámetros de entrada:
+{ 'EXTENT' : None, 'LAYERS' : [{ 'layer': 'MultiPolygon?crs=EPSG:3857&field=fid:long(0,0)&field=name:string(10,0)&field=total:integer(0,0)&field=color:string(50,0)&field=area:double(0,0)&field=facturacion:boolean(0,0)&field=fecha_reporte:date(0,0)&field=pagado:boolean(0,0)&field=fecha_inicio:date(0,0)&field=fecha_fin:date(0,0)&uid={5a2d30bc-7543-470c-a6f5-230c7dacf034}' },{ 'layer': 'Point?crs=EPSG:3857&field=fid:long(0,0)&field=revisada:boolean(0,0)&field=desc:string(100,0)&uid={e9533c34-1a2d-41bf-ab6f-597727e46e16}' }], 'MAX_ZOOM' : 14, 'MIN_ZOOM' : 0, 'OUTPUT_DIRECTORY' : 'C:\\Users\\juan_\\Documents\\FINCA_DANUBIO\\TOPOGRAFIA\\STRATEGUS\\mbtiles\\finca_base', 'XYZ_TEMPLATE' : '{z}/{x}/{y}.pbf' }
+
+Execution completed in 1.58 segundos
+Resultados:
+{'OUTPUT_DIRECTORY': 'C:\\Users\\juan_\\Documents\\FINCA_DANUBIO\\TOPOGRAFIA\\STRATEGUS\\mbtiles\\finca_base'}
+
+Cargando las capas resultantes
+Algoritmo 'Escribir teselas vectoriales (XYZ)' finalizado
